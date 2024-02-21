@@ -5,7 +5,7 @@ select glitch-hello-website
 delete all files
 add server.js
 add package.json
-	change the image/gif link in line 10
+	change the image link in line 10
 select share top-right
 copy the live page link
 send it on discord

@@ -7,7 +7,7 @@ app.get('/', function(req, res) {
     console.log(`GET request at ${new Date().toISOString()}`);
     
     // Replace with the actual URL of your image
-    const imageUrl = 'https://tenor.com/view/what-the-hell-gif-8356693125066769156';
+    const imageUrl = 'https://www.creativefabrica.com/wp-content/uploads/2021/01/29/easter-egg-icon-Graphics-8169408-1-580x387.jpg';
     res.redirect(imageUrl);
 });
 
